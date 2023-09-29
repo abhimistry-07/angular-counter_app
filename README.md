@@ -28,13 +28,11 @@ Follow the steps below to complete the counter-app:
    
    ```bash
    ng generate component hello-world
-   ```
    
 2. Create another component called "counter" using the Angular CLI:
    
    ```bash
    ng generate component counter
-   ```
 
 ### Step 3: Hello World Component
 
@@ -59,6 +57,8 @@ Add CSS styles to improve the visual appearance of application.
 ### Step 6: Testing
 
 Write unit tests for the components and the counter functionality.
+
+ ```
 
 ## Getting Started
 

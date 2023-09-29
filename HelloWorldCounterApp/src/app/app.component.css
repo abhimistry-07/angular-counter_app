@@ -1,0 +1,16 @@
+#display {
+    text-align: center;
+}
+
+body {
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    height: 95vh;
+    background-image: linear-gradient(to top, #d9afd9 0%, #97d9e1 100%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
